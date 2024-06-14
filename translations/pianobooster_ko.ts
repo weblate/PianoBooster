@@ -14,7 +14,7 @@
     <message>
         <location filename="../src/Draw.cpp" line="307"/>
         <source>C</source>
-        <translation type="unfinished"></translation>
+        <translation>도</translation>
     </message>
     <message>
         <location filename="../src/Draw.cpp" line="308"/>
