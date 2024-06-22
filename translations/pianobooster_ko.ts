@@ -19,32 +19,32 @@
     <message>
         <location filename="../src/Draw.cpp" line="308"/>
         <source>D</source>
-        <translation type="unfinished"></translation>
+        <translation>레</translation>
     </message>
     <message>
         <location filename="../src/Draw.cpp" line="309"/>
         <source>E</source>
-        <translation type="unfinished"></translation>
+        <translation>미</translation>
     </message>
     <message>
         <location filename="../src/Draw.cpp" line="310"/>
         <source>F</source>
-        <translation type="unfinished"></translation>
+        <translation>파</translation>
     </message>
     <message>
         <location filename="../src/Draw.cpp" line="311"/>
         <source>G</source>
-        <translation type="unfinished"></translation>
+        <translation>솔</translation>
     </message>
     <message>
         <location filename="../src/Draw.cpp" line="312"/>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation>라</translation>
     </message>
     <message>
         <location filename="../src/Draw.cpp" line="313"/>
         <source>B</source>
-        <translation type="unfinished"></translation>
+        <translation>시</translation>
     </message>
 </context>
 <context>
@@ -52,12 +52,12 @@
     <message>
         <location filename="../src/GlView.cpp" line="229"/>
         <source>Accuracy:</source>
-        <translation type="unfinished"></translation>
+        <translation>정확성:</translation>
     </message>
     <message>
         <location filename="../src/GlView.cpp" line="241"/>
         <source>Song:</source>
-        <translation type="unfinished"></translation>
+        <translation>노래:</translation>
     </message>
     <message>
         <location filename="../src/GlView.cpp" line="264"/>
@@ -75,12 +75,12 @@
     <message>
         <location filename="../src/Settings.cpp" line="532"/>
         <source>ERROR NO SOUND: To fix this use menu Setup/MIDI Setup ...</source>
-        <translation type="unfinished"></translation>
+        <translation>오류 소리가 나지 않음: 이를 고치려면 Setup/MIDI Setup 메뉴를 사용하세요 ...</translation>
     </message>
     <message>
         <location filename="../src/Settings.cpp" line="534"/>
         <source>ERROR NO MIDI FILE: To fix this use menu File/Open ...</source>
-        <translation type="unfinished"></translation>
+        <translation>오류 MIDI 파일 없음: 이를 고치려면 File/Open 메뉴를 사용하세요 ...</translation>
     </message>
 </context>
 <context>
@@ -98,27 +98,27 @@
     <message>
         <location filename="../src/TrackList.cpp" line="408"/>
         <source>Bright Piano</source>
-        <translation type="unfinished"></translation>
+        <translation>밝은 소리의 피아노</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="409"/>
         <source>Electric Grand</source>
-        <translation type="unfinished"></translation>
+        <translation>전자 그랜드 피아노</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="410"/>
         <source>Honky-tonk Piano</source>
-        <translation type="unfinished"></translation>
+        <translation>홍키통크 피아노</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="411"/>
         <source>Electric Piano 1</source>
-        <translation type="unfinished"></translation>
+        <translation>전자 피아노 1</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="412"/>
         <source>Electric Piano 2</source>
-        <translation type="unfinished"></translation>
+        <translation>전자 피아노 2</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="413"/>
@@ -128,7 +128,7 @@
     <message>
         <location filename="../src/TrackList.cpp" line="414"/>
         <source>Clavi</source>
-        <translation type="unfinished"></translation>
+        <translation>뾰족한 소리</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="415"/>
@@ -143,7 +143,7 @@
     <message>
         <location filename="../src/TrackList.cpp" line="417"/>
         <source>Music Box</source>
-        <translation type="unfinished"></translation>
+        <translation>오르골</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="418"/>
@@ -163,7 +163,7 @@
     <message>
         <location filename="../src/TrackList.cpp" line="421"/>
         <source>Tubular Bells</source>
-        <translation type="unfinished"></translation>
+        <translation>튜블러 종</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="422"/>
@@ -173,7 +173,7 @@
     <message>
         <location filename="../src/TrackList.cpp" line="423"/>
         <source>Drawbar Organ</source>
-        <translation type="unfinished"></translation>
+        <translation>해먼드 오르간</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="424"/>
@@ -183,12 +183,12 @@
     <message>
         <location filename="../src/TrackList.cpp" line="425"/>
         <source>Rock Organ</source>
-        <translation type="unfinished"></translation>
+        <translation>락 오르간</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="426"/>
         <source>Church Organ</source>
-        <translation type="unfinished"></translation>
+        <translation>교회 오르간</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="427"/>
@@ -208,47 +208,47 @@
     <message>
         <location filename="../src/TrackList.cpp" line="430"/>
         <source>Tango Accordion</source>
-        <translation type="unfinished"></translation>
+        <translation>탱고 아코디언</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="431"/>
         <source>Acoustic Guitar (nylon)</source>
-        <translation type="unfinished"></translation>
+        <translation>어쿠스틱 기타(나일론)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="432"/>
         <source>Acoustic Guitar (steel)</source>
-        <translation type="unfinished"></translation>
+        <translation>어쿠스틱 기타(철)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="433"/>
         <source>Electric Guitar (jazz)</source>
-        <translation type="unfinished"></translation>
+        <translation>일렉 기타(재즈)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="434"/>
         <source>Electric Guitar (clean)</source>
-        <translation type="unfinished"></translation>
+        <translation>일렉 기타(기본)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="435"/>
         <source>Electric Guitar (muted)</source>
-        <translation type="unfinished"></translation>
+        <translation>일렉 기타(소리 죽인)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="436"/>
         <source>Overdriven Guitar</source>
-        <translation type="unfinished"></translation>
+        <translation>오버드라이브 기타</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="437"/>
         <source>Distortion Guitar</source>
-        <translation type="unfinished"></translation>
+        <translation>디스토션 기타</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="438"/>
         <source>Guitar harmonics</source>
-        <translation type="unfinished"></translation>
+        <translation>기타 하모닉스 주법</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="439"/>
@@ -258,37 +258,37 @@
     <message>
         <location filename="../src/TrackList.cpp" line="440"/>
         <source>Electric Bass (finger)</source>
-        <translation type="unfinished"></translation>
+        <translation>일렉 베이스 (손가락)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="441"/>
         <source>Electric Bass (pick)</source>
-        <translation type="unfinished"></translation>
+        <translation>일렉 베이스(피크)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="442"/>
         <source>Fretless Bass</source>
-        <translation type="unfinished"></translation>
+        <translation>프렛리스 베이스</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="443"/>
         <source>Slap Bass 1</source>
-        <translation type="unfinished"></translation>
+        <translation>슬랩 주법 베이스 1</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="444"/>
         <source>Slap Bass 2</source>
-        <translation type="unfinished"></translation>
+        <translation>슬랩 주법 베이스 2</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="445"/>
         <source>Synth Bass 1</source>
-        <translation type="unfinished"></translation>
+        <translation>신디사이저 합성 베이스 1</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="446"/>
         <source>Synth Bass 2</source>
-        <translation type="unfinished"></translation>
+        <translation>신디사이저 합성 베이스 2</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="447"/>
@@ -303,7 +303,7 @@
     <message>
         <location filename="../src/TrackList.cpp" line="449"/>
         <source>Cello</source>
-        <translation type="unfinished"></translation>
+        <translation>첼로</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="450"/>
@@ -313,17 +313,17 @@
     <message>
         <location filename="../src/TrackList.cpp" line="451"/>
         <source>Tremolo Strings</source>
-        <translation type="unfinished"></translation>
+        <translation>트레몰로 현</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="452"/>
         <source>Pizzicato Strings</source>
-        <translation type="unfinished"></translation>
+        <translation>피치카토 현</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="453"/>
         <source>Orchestral Harp</source>
-        <translation type="unfinished"></translation>
+        <translation>오케스트라 하프</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="454"/>
@@ -333,42 +333,42 @@
     <message>
         <location filename="../src/TrackList.cpp" line="455"/>
         <source>String Ensemble 1</source>
-        <translation type="unfinished"></translation>
+        <translation>스트링 앙상블 1</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="456"/>
         <source>String Ensemble 2</source>
-        <translation type="unfinished"></translation>
+        <translation>스트링 앙상블 2</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="457"/>
         <source>SynthStrings 1</source>
-        <translation type="unfinished"></translation>
+        <translation>신디사이저 합성 현 1</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="458"/>
         <source>SynthStrings 2</source>
-        <translation type="unfinished"></translation>
+        <translation>신디사이저 합성 현 2</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="459"/>
         <source>Choir Aahs</source>
-        <translation type="unfinished"></translation>
+        <translation>교회 성가대 아- 소</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="460"/>
         <source>Voice Oohs</source>
-        <translation type="unfinished"></translation>
+        <translation>사람 목소리 우-</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="461"/>
         <source>Synth Voice</source>
-        <translation type="unfinished"></translation>
+        <translation>신디사이저 합성 사람 목소리</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="462"/>
         <source>Orchestra Hit</source>
-        <translation type="unfinished"></translation>
+        <translation>오케스트라 히트</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="463"/>
@@ -388,47 +388,47 @@
     <message>
         <location filename="../src/TrackList.cpp" line="466"/>
         <source>Muted Trumpet</source>
-        <translation type="unfinished"></translation>
+        <translation>막힌 트럼펫 소리</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="467"/>
         <source>French Horn</source>
-        <translation type="unfinished"></translation>
+        <translation>프렌치 호른</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="468"/>
         <source>Brass Section</source>
-        <translation type="unfinished"></translation>
+        <translation>여러 대의 금관 악기들</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="469"/>
         <source>SynthBrass 1</source>
-        <translation type="unfinished"></translation>
+        <translation>신디사이저 합성 금관악기 1</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="470"/>
         <source>SynthBrass 2</source>
-        <translation type="unfinished"></translation>
+        <translation>신디사이저 합성 금관악기 2</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="471"/>
         <source>Soprano Sax</source>
-        <translation type="unfinished"></translation>
+        <translation>소프라노 색소폰</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="472"/>
         <source>Alto Sax</source>
-        <translation type="unfinished"></translation>
+        <translation>알토 색소폰</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="473"/>
         <source>Tenor Sax</source>
-        <translation type="unfinished"></translation>
+        <translation>테너 색소폰</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="474"/>
         <source>Baritone Sax</source>
-        <translation type="unfinished"></translation>
+        <translation>바리톤 색소폰</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="475"/>
@@ -473,17 +473,17 @@
     <message>
         <location filename="../src/TrackList.cpp" line="483"/>
         <source>Blown Bottle</source>
-        <translation type="unfinished"></translation>
+        <translation>병 부는 소리</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="484"/>
         <source>Shakuhachi</source>
-        <translation type="unfinished"></translation>
+        <translation>샤쿠하치</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="485"/>
         <source>Whistle</source>
-        <translation type="unfinished"></translation>
+        <translation>휘파람</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="486"/>
@@ -493,102 +493,102 @@
     <message>
         <location filename="../src/TrackList.cpp" line="487"/>
         <source>Lead 1 (square)</source>
-        <translation type="unfinished"></translation>
+        <translation>신스 리드 1 (곧은 소리)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="488"/>
         <source>Lead 2 (sawtooth)</source>
-        <translation type="unfinished"></translation>
+        <translation>신스 리드 2 (울퉁불퉁한 소리)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="489"/>
         <source>Lead 3 (calliope)</source>
-        <translation type="unfinished"></translation>
+        <translation>신스 리드 3 (아름다운 목소리)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="490"/>
         <source>Lead 4 (chiff)</source>
-        <translation type="unfinished"></translation>
+        <translation>신스 리드 4 (chiff)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="491"/>
         <source>Lead 5 (charang)</source>
-        <translation type="unfinished"></translation>
+        <translation>신스 리드 5 (charang)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="492"/>
         <source>Lead 6 (voice)</source>
-        <translation type="unfinished"></translation>
+        <translation>신스 리드 6 (목소리)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="493"/>
         <source>Lead 7 (fifths)</source>
-        <translation type="unfinished"></translation>
+        <translation>신스 리드 7 (fifths)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="494"/>
         <source>Lead 8 (bass + lead)</source>
-        <translation type="unfinished"></translation>
+        <translation>신스 리드 8 (리드 베이스)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="495"/>
         <source>Pad 1 (new age)</source>
-        <translation type="unfinished"></translation>
+        <translation>신스 패드 1 (뉴에이지)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="496"/>
         <source>Pad 2 (warm)</source>
-        <translation type="unfinished"></translation>
+        <translation>신스 패드 2 (따뜻한)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="497"/>
         <source>Pad 3 (polysynth)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">신스 패드 3 (polysynth)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="498"/>
         <source>Pad 4 (choir)</source>
-        <translation type="unfinished"></translation>
+        <translation>신스 패드 4 (교회 성가대)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="499"/>
         <source>Pad 5 (bowed)</source>
-        <translation type="unfinished"></translation>
+        <translation>신스 패드 5 (구부린 소리)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="500"/>
         <source>Pad 6 (metallic)</source>
-        <translation type="unfinished"></translation>
+        <translation>신스 패드 6 (금속성)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="501"/>
         <source>Pad 7 (halo)</source>
-        <translation type="unfinished"></translation>
+        <translation>신스 패드 7 (헤일로)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="502"/>
         <source>Pad 8 (sweep)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">신스 패드 8 (sweep)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="503"/>
         <source>FX 1 (rain)</source>
-        <translation type="unfinished"></translation>
+        <translation>신스 효과음 (비)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="504"/>
         <source>FX 2 (soundtrack)</source>
-        <translation type="unfinished"></translation>
+        <translation>신스 효과음 2 (사운드트랙)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="505"/>
         <source>FX 3 (crystal)</source>
-        <translation type="unfinished"></translation>
+        <translation>신스 효과음 3 (크리스탈)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="506"/>
         <source>FX 4 (atmosphere)</source>
-        <translation type="unfinished"></translation>
+        <translation>신스 효과음 4 (분위기)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="507"/>
