@@ -14,37 +14,37 @@
     <message>
         <location filename="../src/Draw.cpp" line="307"/>
         <source>C</source>
-        <translation type="unfinished"></translation>
+        <translation>C</translation>
     </message>
     <message>
         <location filename="../src/Draw.cpp" line="308"/>
         <source>D</source>
-        <translation type="unfinished"></translation>
+        <translation>D</translation>
     </message>
     <message>
         <location filename="../src/Draw.cpp" line="309"/>
         <source>E</source>
-        <translation type="unfinished"></translation>
+        <translation>E</translation>
     </message>
     <message>
         <location filename="../src/Draw.cpp" line="310"/>
         <source>F</source>
-        <translation type="unfinished"></translation>
+        <translation>F</translation>
     </message>
     <message>
         <location filename="../src/Draw.cpp" line="311"/>
         <source>G</source>
-        <translation type="unfinished"></translation>
+        <translation>G</translation>
     </message>
     <message>
         <location filename="../src/Draw.cpp" line="312"/>
         <source>A</source>
-        <translation type="unfinished"></translation>
+        <translation>A</translation>
     </message>
     <message>
         <location filename="../src/Draw.cpp" line="313"/>
         <source>B</source>
-        <translation type="unfinished"></translation>
+        <translation>B</translation>
     </message>
 </context>
 <context>
@@ -52,17 +52,17 @@
     <message>
         <location filename="../src/GlView.cpp" line="229"/>
         <source>Accuracy:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pontosság:</translation>
     </message>
     <message>
         <location filename="../src/GlView.cpp" line="241"/>
         <source>Song:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dal:</translation>
     </message>
     <message>
         <location filename="../src/GlView.cpp" line="264"/>
         <source>Bar:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sáv:</translation>
     </message>
 </context>
 <context>
@@ -75,7 +75,7 @@
     <message>
         <location filename="../src/Settings.cpp" line="532"/>
         <source>ERROR NO SOUND: To fix this use menu Setup/MIDI Setup ...</source>
-        <translation type="unfinished"></translation>
+        <translation>NINCS HANG: Nyisd meg a Beállítások-on belül MIDI beállítások fület...</translation>
     </message>
     <message>
         <location filename="../src/Settings.cpp" line="534"/>
