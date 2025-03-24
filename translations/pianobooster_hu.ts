@@ -75,12 +75,12 @@
     <message>
         <location filename="../src/Settings.cpp" line="532"/>
         <source>ERROR NO SOUND: To fix this use menu Setup/MIDI Setup ...</source>
-        <translation>NINCS HANG: Nyisd meg a Beállítások-on belül MIDI beállítások fület...</translation>
+        <translation>HIBA NINCS HANG: Nyisd meg a Beállítások-on belül MIDI beállítások fület...</translation>
     </message>
     <message>
         <location filename="../src/Settings.cpp" line="534"/>
         <source>ERROR NO MIDI FILE: To fix this use menu File/Open ...</source>
-        <translation type="unfinished"></translation>
+        <translation>HIBA NINCS MIDI FÁJL: Nyiss meg egyet a Fájl/Megnyitás fül alatt ...</translation>
     </message>
 </context>
 <context>
@@ -98,27 +98,27 @@
     <message>
         <location filename="../src/TrackList.cpp" line="408"/>
         <source>Bright Piano</source>
-        <translation type="unfinished"></translation>
+        <translation>Fényesen zengő zongora</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="409"/>
         <source>Electric Grand</source>
-        <translation type="unfinished"></translation>
+        <translation>Elektromos zongora</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="410"/>
         <source>Honky-tonk Piano</source>
-        <translation type="unfinished"></translation>
+        <translation>Honky-tonk stílusú zongora</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="411"/>
         <source>Electric Piano 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Elektromos zongora 1</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="412"/>
         <source>Electric Piano 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Elektromos zongora 2</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="413"/>
@@ -128,7 +128,7 @@
     <message>
         <location filename="../src/TrackList.cpp" line="414"/>
         <source>Clavi</source>
-        <translation type="unfinished"></translation>
+        <translation>Clavi zongora</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="415"/>
@@ -143,7 +143,7 @@
     <message>
         <location filename="../src/TrackList.cpp" line="417"/>
         <source>Music Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Zenedoboz hangzású zongora</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="418"/>
@@ -153,7 +153,7 @@
     <message>
         <location filename="../src/TrackList.cpp" line="419"/>
         <source>Marimba</source>
-        <translation type="unfinished"></translation>
+        <translation>Marimba zongora</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="420"/>
@@ -173,7 +173,7 @@
     <message>
         <location filename="../src/TrackList.cpp" line="423"/>
         <source>Drawbar Organ</source>
-        <translation type="unfinished"></translation>
+        <translation>Emelőrudas orgona</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="424"/>
@@ -183,7 +183,7 @@
     <message>
         <location filename="../src/TrackList.cpp" line="425"/>
         <source>Rock Organ</source>
-        <translation type="unfinished"></translation>
+        <translation>Rock orgona</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="426"/>
@@ -208,47 +208,47 @@
     <message>
         <location filename="../src/TrackList.cpp" line="430"/>
         <source>Tango Accordion</source>
-        <translation type="unfinished"></translation>
+        <translation>Tangóharmonika</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="431"/>
         <source>Acoustic Guitar (nylon)</source>
-        <translation type="unfinished"></translation>
+        <translation>Akusztikus gitár (nejlon húros)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="432"/>
         <source>Acoustic Guitar (steel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Akusztikus gitár (acél húros)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="433"/>
         <source>Electric Guitar (jazz)</source>
-        <translation type="unfinished"></translation>
+        <translation>Elektromos gitár (jazz stílusú)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="434"/>
         <source>Electric Guitar (clean)</source>
-        <translation type="unfinished"></translation>
+        <translation>Elektromos gitár (tiszta hangzású)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="435"/>
         <source>Electric Guitar (muted)</source>
-        <translation type="unfinished"></translation>
+        <translation>Elektromos gitár (csillapított)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="436"/>
         <source>Overdriven Guitar</source>
-        <translation type="unfinished"></translation>
+        <translation>Túlhajtott gitár</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="437"/>
         <source>Distortion Guitar</source>
-        <translation type="unfinished"></translation>
+        <translation>Torzított gitár</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="438"/>
         <source>Guitar harmonics</source>
-        <translation type="unfinished"></translation>
+        <translation>Gitárharmonika</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="439"/>
@@ -258,17 +258,17 @@
     <message>
         <location filename="../src/TrackList.cpp" line="440"/>
         <source>Electric Bass (finger)</source>
-        <translation type="unfinished"></translation>
+        <translation>Elektromos basszusgitár (ujjal)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="441"/>
         <source>Electric Bass (pick)</source>
-        <translation type="unfinished"></translation>
+        <translation>Elektromos basszusgitár (pengetővel)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="442"/>
         <source>Fretless Bass</source>
-        <translation type="unfinished"></translation>
+        <translation>Elektromos basszusgitár (bund nélküli)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="443"/>
@@ -318,12 +318,12 @@
     <message>
         <location filename="../src/TrackList.cpp" line="452"/>
         <source>Pizzicato Strings</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengetett vonósok (pizzicato)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="453"/>
         <source>Orchestral Harp</source>
-        <translation type="unfinished"></translation>
+        <translation>Zenekari hárfa</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="454"/>
@@ -333,22 +333,22 @@
     <message>
         <location filename="../src/TrackList.cpp" line="455"/>
         <source>String Ensemble 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Vonós együttes 1</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="456"/>
         <source>String Ensemble 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Vonós együttes 2</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="457"/>
         <source>SynthStrings 1</source>
-        <translation type="unfinished"></translation>
+        <translation>SzintiVonósok 1</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="458"/>
         <source>SynthStrings 2</source>
-        <translation type="unfinished"></translation>
+        <translation>SzintiVonósok 2</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="459"/>
@@ -363,7 +363,7 @@
     <message>
         <location filename="../src/TrackList.cpp" line="461"/>
         <source>Synth Voice</source>
-        <translation type="unfinished"></translation>
+        <translation>Szintetizátoros énekhang</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="462"/>
@@ -383,32 +383,32 @@
     <message>
         <location filename="../src/TrackList.cpp" line="465"/>
         <source>Tuba</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuba</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="466"/>
         <source>Muted Trumpet</source>
-        <translation type="unfinished"></translation>
+        <translation>Csillapított trombita</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="467"/>
         <source>French Horn</source>
-        <translation type="unfinished"></translation>
+        <translation>Francia kűrt</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="468"/>
         <source>Brass Section</source>
-        <translation type="unfinished"></translation>
+        <translation>Rézfúvósok</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="469"/>
         <source>SynthBrass 1</source>
-        <translation type="unfinished"></translation>
+        <translation>SzintiRézfúvósok 1</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="470"/>
         <source>SynthBrass 2</source>
-        <translation type="unfinished"></translation>
+        <translation>SzintiRézfúvósok 2</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="471"/>
@@ -473,7 +473,7 @@
     <message>
         <location filename="../src/TrackList.cpp" line="483"/>
         <source>Blown Bottle</source>
-        <translation type="unfinished"></translation>
+        <translation>Fújt üveg</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="484"/>
@@ -493,42 +493,42 @@
     <message>
         <location filename="../src/TrackList.cpp" line="487"/>
         <source>Lead 1 (square)</source>
-        <translation type="unfinished"></translation>
+        <translation>Szóló szintetizátor 1 (négyszögjelből)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="488"/>
         <source>Lead 2 (sawtooth)</source>
-        <translation type="unfinished"></translation>
+        <translation>Szóló szintetizátor 2 (fűrészfog jelből)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="489"/>
         <source>Lead 3 (calliope)</source>
-        <translation type="unfinished"></translation>
+        <translation>Szóló szintetizátor 3 (cirkuszi)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="490"/>
         <source>Lead 4 (chiff)</source>
-        <translation type="unfinished"></translation>
+        <translation>Szóló szintetizátor 4 (fuvola)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="491"/>
         <source>Lead 5 (charang)</source>
-        <translation type="unfinished"></translation>
+        <translation>Szóló szintetizátor 5 (digitális)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="492"/>
         <source>Lead 6 (voice)</source>
-        <translation type="unfinished"></translation>
+        <translation>Szóló szintetizátor 6 (énekhang)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="493"/>
         <source>Lead 7 (fifths)</source>
-        <translation type="unfinished"></translation>
+        <translation>Szóló szintetizátor 7 (ötödikek)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="494"/>
         <source>Lead 8 (bass + lead)</source>
-        <translation type="unfinished"></translation>
+        <translation>Szóló szintetizátor 8 (basszus)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="495"/>
