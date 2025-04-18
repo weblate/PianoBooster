@@ -678,42 +678,42 @@
     <message>
         <location filename="../src/TrackList.cpp" line="524"/>
         <source>Melodic Tom</source>
-        <translation type="unfinished"></translation>
+        <translation>Dallamos tam</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="525"/>
         <source>Synth Drum</source>
-        <translation type="unfinished"></translation>
+        <translation>Szintetizátoros dob</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="526"/>
         <source>Reverse Cymbal</source>
-        <translation type="unfinished"></translation>
+        <translation>Fordított cintányér</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="527"/>
         <source>Guitar Fret Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>Gitár bundzaj</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="528"/>
         <source>Breath Noise</source>
-        <translation type="unfinished"></translation>
+        <translation>Légzéshang</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="529"/>
         <source>Seashore</source>
-        <translation>Tenger</translation>
+        <translation>Tengerhang</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="530"/>
         <source>Bird Tweet</source>
-        <translation type="unfinished"></translation>
+        <translation>Madárcsiripelés</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="531"/>
         <source>Telephone Ring</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefoncsörgés</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="532"/>
@@ -728,7 +728,7 @@
     <message>
         <location filename="../src/TrackList.cpp" line="534"/>
         <source>Gunshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Pisztolylövés</translation>
     </message>
 </context>
 <context>
@@ -736,22 +736,22 @@
     <message>
         <location filename="../src/GuiKeyboardSetupDialog.cpp" line="41"/>
         <source>Piano Keyboard Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Zongorabillentyűk beállítása</translation>
     </message>
     <message>
         <location filename="../src/GuiKeyboardSetupDialog.ui" line="19"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Párbeszédpanel</translation>
     </message>
     <message>
         <location filename="../src/GuiKeyboardSetupDialog.ui" line="25"/>
         <source>Setup Your Piano Keyboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Álltsd be a zongorabillentyűket</translation>
     </message>
     <message>
         <location filename="../src/GuiKeyboardSetupDialog.ui" line="55"/>
         <source>Right Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Helyes hangok</translation>
     </message>
     <message>
         <location filename="../src/GuiKeyboardSetupDialog.ui" line="63"/>
@@ -763,7 +763,7 @@
         <location filename="../src/GuiKeyboardSetupDialog.ui" line="80"/>
         <location filename="../src/GuiKeyboardSetupDialog.ui" line="163"/>
         <source>volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>hangerő:</translation>
     </message>
     <message>
         <location filename="../src/GuiKeyboardSetupDialog.ui" line="118"/>
@@ -774,28 +774,28 @@
     <message>
         <location filename="../src/GuiKeyboardSetupDialog.ui" line="132"/>
         <source>Wrong Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Hibás hangok</translation>
     </message>
     <message>
         <location filename="../src/GuiKeyboardSetupDialog.ui" line="217"/>
         <source>Keyboard Note Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Billentyűzetszélesség</translation>
     </message>
     <message>
         <location filename="../src/GuiKeyboardSetupDialog.ui" line="223"/>
         <source>Lowest Note:</source>
-        <translation type="unfinished"></translation>
+        <translation>Legalsó hang:</translation>
     </message>
     <message>
         <location filename="../src/GuiKeyboardSetupDialog.ui" line="236"/>
         <location filename="../src/GuiKeyboardSetupDialog.ui" line="272"/>
         <source>The note number between 0 and 127</source>
-        <translation type="unfinished"></translation>
+        <translation>A hangok számai 0 és 127 között</translation>
     </message>
     <message>
         <location filename="../src/GuiKeyboardSetupDialog.ui" line="259"/>
         <source>Highest Note:</source>
-        <translation type="unfinished"></translation>
+        <translation>Legmagasabb hang:</translation>
     </message>
     <message>
         <location filename="../src/GuiKeyboardSetupDialog.ui" line="295"/>
