@@ -533,82 +533,82 @@
     <message>
         <location filename="../src/TrackList.cpp" line="495"/>
         <source>Pad 1 (new age)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pad 1 (új kor)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="496"/>
         <source>Pad 2 (warm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pad 2 (meleg)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="497"/>
         <source>Pad 3 (polysynth)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pad 3 (poliszintetizátor)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="498"/>
         <source>Pad 4 (choir)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pad 4 (kórus)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="499"/>
         <source>Pad 5 (bowed)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pad 5 (hajlított)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="500"/>
         <source>Pad 6 (metallic)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pad 6 (fémes)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="501"/>
         <source>Pad 7 (halo)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pad 7 (dicső)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="502"/>
         <source>Pad 8 (sweep)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pad 8 (átfutó)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="503"/>
         <source>FX 1 (rain)</source>
-        <translation type="unfinished"></translation>
+        <translation>FX 1 (eső)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="504"/>
         <source>FX 2 (soundtrack)</source>
-        <translation type="unfinished"></translation>
+        <translation>FX 2 (hangrészlet)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="505"/>
         <source>FX 3 (crystal)</source>
-        <translation type="unfinished"></translation>
+        <translation>FX 3 (kristály)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="506"/>
         <source>FX 4 (atmosphere)</source>
-        <translation type="unfinished"></translation>
+        <translation>FX 4 (atmoszféra)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="507"/>
         <source>FX 5 (brightness)</source>
-        <translation type="unfinished"></translation>
+        <translation>FX 5 (fényesség)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="508"/>
         <source>FX 6 (goblins)</source>
-        <translation type="unfinished"></translation>
+        <translation>FX 6 (goblinok)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="509"/>
         <source>FX 7 (echoes)</source>
-        <translation type="unfinished"></translation>
+        <translation>FX 7 (visszhangok)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="510"/>
         <source>FX 8 (sci-fi)</source>
-        <translation type="unfinished"></translation>
+        <translation>FX 8 (sci-fi)</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="511"/>
@@ -628,37 +628,37 @@
     <message>
         <location filename="../src/TrackList.cpp" line="514"/>
         <source>Koto</source>
-        <translation type="unfinished"></translation>
+        <translation>Koto</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="515"/>
         <source>Kalimba</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalimba</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="516"/>
         <source>Bag pipe</source>
-        <translation type="unfinished"></translation>
+        <translation>Duda</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="517"/>
         <source>Fiddle</source>
-        <translation type="unfinished"></translation>
+        <translation>Népi hegedű</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="518"/>
         <source>Shanai</source>
-        <translation type="unfinished"></translation>
+        <translation>Shanai</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="519"/>
         <source>Tinkle Bell</source>
-        <translation type="unfinished"></translation>
+        <translation>Csengettyű</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="520"/>
         <source>Agogo</source>
-        <translation type="unfinished"></translation>
+        <translation>Agogo</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="521"/>
@@ -668,12 +668,12 @@
     <message>
         <location filename="../src/TrackList.cpp" line="522"/>
         <source>Woodblock</source>
-        <translation type="unfinished"></translation>
+        <translation>Fakocka</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="523"/>
         <source>Taiko Drum</source>
-        <translation type="unfinished"></translation>
+        <translation>Taiko dob</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="524"/>
@@ -891,7 +891,7 @@
     <message>
         <location filename="../src/GuiMidiSetupDialog.ui" line="266"/>
         <source>Master Gain:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fő hangerő:</translation>
     </message>
     <message>
         <location filename="../src/GuiMidiSetupDialog.ui" line="276"/>
