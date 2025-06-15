@@ -693,7 +693,7 @@
     <message>
         <location filename="../src/TrackList.cpp" line="527"/>
         <source>Guitar Fret Noise</source>
-        <translation>கிட்டார் ஒலி ஒலி</translation>
+        <translation>கிட்டார் ஒலி இரைச்சல்</translation>
     </message>
     <message>
         <location filename="../src/TrackList.cpp" line="528"/>
@@ -1012,7 +1012,7 @@
     <message>
         <location filename="../src/GuiMidiSetupDialog.cpp" line="177"/>
         <source>The latency fix works by running the music ahead of what you&lt;br&gt;are playing to counteract the delay within the sound generator.&lt;br&gt;&lt;br&gt;You will need a piano &lt;b&gt;with speakers&lt;/b&gt; that are &lt;b&gt;turned up&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Enter the time in milliseconds for the delay (1000 mSec = 1 sec)&lt;br&gt;(For the Microsoft GS Wavetable SW Synth try a value of 150)&lt;br&gt;If you are not sure enter a value of zero.</source>
-        <translation>ஒலி செனரேட்டருக்குள் தாமதத்தை எதிர்கொள்ள நீங்கள் விளையாடுவதை விட இசையை இயக்குவதன் மூலம் தாமதமானது செயல்படுகிறது. &lt;br&gt; &lt;br&gt; உங்களுக்கு பேச்சாளர்களுடன் ஒரு பியானோ &lt;b&gt; தேவைப்படும் &lt;/b&gt; &gt; திரும்பியது &lt;/b&gt;. பூச்சியத்தின் மதிப்பை உள்ளிடவும்.</translation>
+        <translation>ஒலி செனரேட்டருக்குள் தாமதத்தை எதிர்கொள்ள நீங்கள் விளையாடுவதை விட இசையை இயக்குவதன் மூலம் தாமதமானது செயல்படுகிறது. &lt;br&gt;&lt;br&gt; உங்களுக்குப் பேச்சாளர்களுடன் ஒரு பியானோ &lt;b&gt; தேவைப்படும் &lt;/b&gt;&lt;br&gt;திரும்பியது &lt;/b&gt;. பூச்சியத்தின் மதிப்பை உள்ளிடவும்.</translation>
     </message>
     <message>
         <location filename="../src/GuiMidiSetupDialog.cpp" line="296"/>
@@ -1032,7 +1032,7 @@
     <message>
         <location filename="../src/GuiMidiSetupDialog.cpp" line="154"/>
         <source>(Try a latency fix of 150msc)</source>
-        <translation>(150 எம்.எச்.சி.</translation>
+        <translation>(150 எம்.எச்.சி.தாமதம் முயற்சி)</translation>
     </message>
 </context>
 <context>
@@ -1651,7 +1651,7 @@
     <message>
         <location filename="../src/QtWindow.cpp" line="365"/>
         <source>Ctrl+P</source>
-        <translation>Ctrl+P.</translation>
+        <translation>கட்டு+P</translation>
     </message>
     <message>
         <location filename="../src/QtWindow.cpp" line="368"/>
@@ -1728,12 +1728,12 @@
     <message>
         <location filename="../src/QtWindow.cpp" line="528"/>
         <source>&lt;h3&gt;Getting Started&lt;/h3&gt;</source>
-        <translation>&lt;H3&gt; தொடங்குதல் &lt;/H3&gt;</translation>
+        <translation>&lt;h3&gt;தொடங்குதல்&lt;/h3&gt;</translation>
     </message>
     <message>
         <location filename="../src/QtWindow.cpp" line="529"/>
         <source>&lt;p&gt;You need a &lt;b&gt;MIDI Piano Keyboard &lt;/b&gt; and a &lt;b&gt;MIDI interface&lt;/b&gt; for the PC. If you don&apos;t have a MIDI keyboard you can still try out PianoBooster using the PC keyboard, &apos;X&apos; is middle C.&lt;/p&gt;</source>
-        <translation>&lt;b&gt; உங்களுக்கு ஒரு &lt;b&gt; மிடி பியானோ விசைப்பலகை தேவை &lt;/b&gt; மற்றும் பிசிக்கு ஒரு &lt;b&gt; மிடி இடைமுகம் &lt;/b&gt; தேவை. உங்களிடம் மிடி விசைப்பலகை இல்லையென்றால், பிசி விசைப்பலகை பயன்படுத்தி பியானோபூச்டரை முயற்சி செய்யலாம், &apos;ஃச்&apos; நடுத்தர சி. &lt;/p&gt;</translation>
+        <translation>&lt;p&gt;உங்களுக்கு ஒரு &lt;b&gt; மிடி பியானோ விசைப்பலகை தேவை &lt;/b&gt; மற்றும் பிசிக்கு ஒரு &lt;b&gt; மிடி இடைமுகம் &lt;/b&gt; தேவை. உங்களிடம் மிடி விசைப்பலகை இல்லையென்றால், பிசி விசைப்பலகை பயன்படுத்தி பியானோபூச்டரை முயற்சி செய்யலாம், &apos;ஃச்&apos; நடுத்தர சி. &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/QtWindow.cpp" line="537"/>
@@ -1743,7 +1743,7 @@
     <message>
         <location filename="../src/QtWindow.cpp" line="539"/>
         <source>&lt;h3&gt;Setting Up&lt;/h3&gt;</source>
-        <translation>&lt;H3&gt; அமைத்தல் &lt;/H3&gt;</translation>
+        <translation>&lt;h3&gt;அமைத்தல்&lt;/h3&gt;</translation>
     </message>
     <message>
         <location filename="../src/QtWindow.cpp" line="207"/>
@@ -1775,7 +1775,7 @@
     <message>
         <location filename="../src/QtWindow.cpp" line="533"/>
         <source>&lt;p&gt;PianoBooster now includes a built-in sound generator called FluidSynth which requires a General MIDI (GM) SoundFont. Use the ‘Setup/MIDI Setup’ menu option and then the load button on the FluidSynth tab to install the SoundFont.&lt;/p&gt;</source>
-        <translation>&lt;p&gt; பியானோபூச்டர் இப்போது ஃப்ளூயிட்ன்த் எனப்படும் உள்ளமைக்கப்பட்ட ஒலி செனரேட்டரை உள்ளடக்கியது, இது பொது மிடி (சிஎம்) சவுண்ட்ஃபோன்ட் தேவைப்படுகிறது. சவுண்ட்ஃபாண்டை நிறுவ ‘அமைவு/மிடி அமைவு’ பட்டியல் விருப்பத்தையும் பின்னர் ஃப்ளூயிட்ந்த் தாவலில் உள்ள சுமை பொத்தானையும் பயன்படுத்தவும். &lt;/P&gt;</translation>
+        <translation>&lt;p&gt; பியானோபூச்டர் இப்போது ஃப்ளூயிட்ன்த் எனப்படும் உள்ளமைக்கப்பட்ட ஒலி செனரேட்டரை உள்ளடக்கியது, இது பொது மிடி (சிஎம்) சவுண்ட்ஃபோன்ட் தேவைப்படுகிறது. சவுண்ட்ஃபாண்டை நிறுவ ‘அமைவு/மிடி அமைவு’ பட்டியல் விருப்பத்தையும் பின்னர் ஃப்ளூயிட்ந்த் தாவலில் உள்ள சுமை பொத்தானையும் பயன்படுத்தவும்.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/QtWindow.cpp" line="540"/>
@@ -1785,7 +1785,7 @@
     <message>
         <location filename="../src/QtWindow.cpp" line="542"/>
         <source>Next use &lt;i&gt;File/Open&lt;/i&gt; to open the MIDI file &quot;.mid&quot; or a karaoke &quot;.kar&quot; file. Now select whether you want to just &lt;i&gt;listen&lt;/i&gt; to the music or &lt;i&gt;play along&lt;/i&gt; on the piano keyboard by setting the &lt;i&gt;skill&lt;/i&gt; level on the side panel. Finally when you are ready click the &lt;i&gt;play icon&lt;/i&gt; (or press the &lt;i&gt;space bar&lt;/i&gt;) to roll the music.</source>
-        <translation>அடுத்து &lt;i&gt; கோப்பு/திறந்த &lt;/i&gt; மிடி கோப்பைத் திறக்க &quot;.மிட்&quot; அல்லது ஒரு கரோக்கி &quot;.கார்&quot; கோப்பைத் திறக்க பயன்படுத்தவும். பக்க பேனலில் &lt;i&gt; திறன் &lt;/i&gt; அளவை அமைப்பதன் மூலம் பியானோ விசைப்பலகையில் &lt;/i&gt; உடன் இசைக்கு &lt;i&gt; கேளுங்கள் &lt;/i&gt; ஐ நீங்கள் விரும்புகிறீர்களா என்பதைத் தேர்ந்தெடுக்கவும். இறுதியாக நீங்கள் தயாராக இருக்கும்போது இசையை உருட்ட &lt;i&gt; ப்ளே படவுரு &lt;/i&gt; (அல்லது &lt;i&gt; விண்வெளி பட்டியை அழுத்தவும்) சொடுக்கு செய்க.</translation>
+        <translation>அடுத்து &lt;i&gt; கோப்பு/திற &lt;/i&gt; மிடி கோப்பைத் திறக்க &quot;.மிட்&quot; அல்லது ஒரு கரோக்கி &quot;.கார்&quot; கோப்பைத் திறக்கப் பயன்படுத்தவும். பக்க பேனலில் &lt;i&gt; திறன் &lt;/i&gt; அளவை அமைப்பதன் மூலம் பியானோ விசைப்பலகையில் &lt;i&gt; உடன் இசைக்கு&lt;/i&gt; &lt;i&gt; கேளுங்கள் &lt;/i&gt; ஐ நீங்கள் விரும்புகிறீர்களா என்பதைத் தேர்ந்தெடுக்கவும். இறுதியாக நீங்கள் தயாராக இருக்கும்போது இசையை உருட்ட &lt;i&gt; ப்ளே படவுரு &lt;/i&gt; (அல்லது &lt;i&gt; விண்வெளி பட்டியை&lt;/i&gt; அழுத்தவும்) சொடுக்கு செய்க.</translation>
     </message>
     <message>
         <location filename="../src/QtWindow.cpp" line="546"/>
@@ -1835,12 +1835,12 @@
     <message>
         <location filename="../src/QtWindow.cpp" line="565"/>
         <source>&lt;b&gt;PianoBooster - Version %1&lt;/b&gt; &lt;br&gt;&lt;br&gt;</source>
-        <translation>&lt;b&gt; பியானோபூச்டர் - பதிப்பு %1 &lt;/b&gt; &lt;br&gt; &lt;br&gt;</translation>
+        <translation>&lt;b&gt; பியானோபூச்டர் - பதிப்பு %1 &lt;/b&gt;&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../src/QtWindow.cpp" line="566"/>
         <source>&lt;b&gt;Boost&lt;/b&gt; your &lt;b&gt;Piano&lt;/b&gt; playing skills!&lt;br&gt;&lt;br&gt;</source>
-        <translation>&lt;b&gt; பூச்ட் &lt;/b&gt; உங்கள் &lt;b&gt; பியானோ &lt;/b&gt; விளையாட்டு திறன்! &lt;br&gt; &lt;br&gt;</translation>
+        <translation>&lt;b&gt; பூச்ட் &lt;/b&gt; உங்கள் &lt;b&gt; பியானோ &lt;/b&gt; விளையாட்டுத் திறன்! &lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../src/QtWindow.cpp" line="568"/>
@@ -1855,7 +1855,7 @@
     <message>
         <location filename="../src/QtWindow.cpp" line="571"/>
         <source>This program is made available under the terms of the GNU General Public License version 3 as published by the Free Software Foundation.&lt;br&gt;&lt;br&gt;</source>
-        <translation>இந்த திட்டம் இலவச மென்பொருள் அறக்கட்டளையால் வெளியிடப்பட்ட குனு பொது பொது உரிமம் பதிப்பு 3 இன் விதிமுறைகளின் கீழ் கிடைக்கிறது. &lt;br&gt; &lt;br&gt;</translation>
+        <translation>இந்தத் திட்டம் இலவச மென்பொருள் அறக்கட்டளையால் வெளியிடப்பட்ட குனு பொது பொதுமக்கள் உரிமம் பதிப்பு 3 இன் விதிமுறைகளின் கீழ் கிடைக்கிறது. &lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../src/QtWindow.cpp" line="577"/>
